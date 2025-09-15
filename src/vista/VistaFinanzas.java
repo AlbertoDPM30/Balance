@@ -31,7 +31,7 @@ public class VistaFinanzas extends JFrame {
         setLayout(new BorderLayout());
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(800, 600);
-        setLocationRelativeTo(null); // Centra la ventana
+        setLocationRelativeTo(null);
 
         // Panel de registro
         JPanel panelRegistro = new JPanel(new BorderLayout(10, 10));

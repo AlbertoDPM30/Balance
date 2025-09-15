@@ -1,4 +1,3 @@
-// Nuevo archivo: Abono.java
 package modelo;
 
 import java.time.LocalDate;
