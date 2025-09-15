@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Balance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Balance_jar</output-path>
+    <root id="archive" name="Balance.jar">
+      <element id="module-output" name="Balance" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sqlite-jdbc-3.50.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
